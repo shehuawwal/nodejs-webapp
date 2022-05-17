@@ -1,4 +1,4 @@
 GITHUB ACTIONS ASSINMENT
 
-Moderated By:: Lutz
+Moderated By: Lutz
 --------------------
